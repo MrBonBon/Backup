@@ -1,0 +1,71 @@
+h1, h3, h5, h6, p {
+		color:white;
+	}
+	h1{
+		 text-align: center;
+	}
+		h2 {
+		color:#EA5050;
+	}
+a {
+	color: white;
+		
+}
+nav{
+	text-align: center;
+	margin-left:1%;
+	margin-right:1%;
+	border:solid;
+	border-color:white;
+	background-color:#870000;
+	
+}
+#leftnav{
+	margin-right:1%;
+}
+body{
+	background-color: #870000;
+}
+
+header{
+	padding:5px 50px 0px; border-width:5px; margin:25px; border-style:solid;
+	border-color:white;
+}
+a:hover{
+	background-color: #EA5050;
+}
+
+.aboutmewordle {
+	position: relative;
+	float: right;
+	right:20%;
+	top: 50%;
+	padding-top: 4%;
+}
+
+footer{
+    	width: 1400px;
+    	margin: 0;
+    	padding: 10px;
+    	background-color: #EA5050;
+    	clear: both;
+    	color: ;
+    	font-weight: bold;
+    	text-align: center;
+    	border-bottom-left-radius: 25px;
+    	border-bottom-right-radius: 25px;
+    }
+    
+    aside{
+    	width: 200px;
+    	margin: 0 10px 10px 0;
+    	padding: 10px;
+    	background-color: #EA5050;
+    }
+    
+#scottishrotation:hover {
+	-ms-transform: rotateY(45deg);
+	-webkit-transform: rotateY(45deg);
+	transform: rotateY(45deg);
+}
+
